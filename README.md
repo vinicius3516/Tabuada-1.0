@@ -1,3 +1,3 @@
 Gerador de tabuada
 
-criado am as tescnologias do html, css e javascript
+criado am as tecnologias como html, css e javascript
